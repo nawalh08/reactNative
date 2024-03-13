@@ -195,7 +195,7 @@ export default function App() {
           <TouchableOpacity
             style={styles.clearButton}
             onPress={handleClear}>
-            <Text style={styles.clearButtonText}>AC</Text>
+            <Text style={styles.clearButtonText}>DEL</Text>
           </TouchableOpacity>
         </View>
       </View>
