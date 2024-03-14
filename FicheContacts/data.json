@@ -1,0 +1,20 @@
+[
+    {
+        "nom":"Durois",
+        "prenom":"Anais",
+        "adresse": "147 rue du moulin 59000 lille",
+        "numeroTel": "0602010405"
+    }, 
+    {
+        "nom":"Moulin",
+        "prenom":"Sabrina",
+        "adresse": "7 rue du moulin 59000 lille",
+        "numeroTel": "0604080709"
+    },
+    {
+        "nom":"Henou",
+        "prenom":"Jean",
+        "adresse": "10 rue du moulin 59000 lille",
+        "numeroTel": "0602245187"
+    }
+]
